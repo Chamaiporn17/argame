@@ -1,0 +1,6 @@
+{
+  "name": "Esports Recruitment",
+  "description": "An Esports recruitment platform featuring a high-tech landing page, secure login/registration, and an interactive AR hand-tracking reaction game built with MediaPipe Hands.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
